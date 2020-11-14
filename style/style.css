@@ -1,0 +1,21 @@
+
+img{
+	width: 100%;
+	height:auto;	
+}
+#myCarousel{
+	width: 1000px;
+	margin-left: 200px;
+}
+#demo{
+	text-align: center;
+}
+span{
+	
+}
+nav{
+	margin-top: 5px;
+}
+body{
+	margin-top: 10px;
+}
